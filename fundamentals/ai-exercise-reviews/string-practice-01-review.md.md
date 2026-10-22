@@ -1,5 +1,5 @@
-[exercises-code](../exercises/string-ai-exercise-01.py)
-[View-the-questions](../ai-notes/01-string-ai-notes.md)
+-[exercises-code](../exercises/string-ai-exercise-01.py)
+-[View-the-questions](../ai-notes/01-string-ai-notes.md)
 کدت خوبه؛ چند متد مهم رشته (`strip`، `lower`، `upper`، `split`، `replace` و برش معکوس) رو درست استفاده کردی. 👍 چند نکته برای بهتر شدن کد:
 
 ## بررسی نکات مهم
