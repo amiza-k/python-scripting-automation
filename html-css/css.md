@@ -219,5 +219,3 @@ Pseudo-classها را می‌شناسم.
 Pseudo-elementها را می‌شناسم.
 
 می‌توانم Selectorهای مختلف را در یک صفحه واقعی تشخیص بدهم.
-
-**نکته نهایی:** مهم‌ترین بخش این جلسه برای مسیر Bug Bounty، تسلط بر انواع Selectorها، Attribute Selectorها، Combinators و Pseudo-classes است. این‌ها را باید بتوانی بدون نگاه کردن به جزوه بنویسی و تحلیل کنی.
